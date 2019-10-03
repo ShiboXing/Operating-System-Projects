@@ -7,5 +7,5 @@ A multi-threading traffic simulation thats uses fork and semaphores to perform c
 ## project 3
 A page memory simulation program written in python that emulates FIFO, NRU, CLOCK and OPT(farthest page first) virtual page scheduling algorithm.
 
-##project 4
+## project 4
 A file system built with fuse that uses contiguous block allocation and a bitmap. Its read and write syscalls are implemented.  
